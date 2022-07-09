@@ -1,0 +1,1 @@
+console.log("Javascirpt derslerine hoşgeldiniz");
