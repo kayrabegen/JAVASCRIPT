@@ -1,0 +1,1 @@
+var isim = "kayra", soyisim = "beğen", yaş = "14";
